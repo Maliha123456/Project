@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Law",
+        "user_name": "law",
+        "email": "law@gmail.com",
+        "password": "law@gmail.com",
+        "gender": "male",
+        "date_barth": [
+            "18",
+            "3",
+            "1997"
+        ]
+    },
+    {
+        "name": "Law",
+        "user_name": "law",
+        "email": "law@gmail.com",
+        "password": "law@gmail.com",
+        "gender": "male",
+        "date_barth": [
+            "18",
+            "3",
+            "2021"
+        ]
+    },
+    {
+        "name": "Maliha Tasnim",
+        "user_name": "anon",
+        "email": "maliha@gmail.com",
+        "password": "maliha@gmail.com",
+        "gender": "female",
+        "date_barth": [
+            "18",
+            "3",
+            "1997"
+        ]
+    },
+    {
+        "name": "arman",
+        "user_name": "admin",
+        "email": "arman@gmail.com",
+        "password": "arman@gmail.com",
+        "gender": "male",
+        "date_barth": [
+            "1",
+            "2",
+            "1997"
+        ]
+    },
+    {
+        "name": "Law",
+        "user_name": "law",
+        "email": "law@gmail.com",
+        "password": "law@gmail.com",
+        "gender": "male",
+        "date_barth": [
+            "1",
+            "2",
+            "1997"
+        ]
+    }
+]
